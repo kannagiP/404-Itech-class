@@ -1,0 +1,41 @@
+<html>
+    <head>
+        
+        <title>
+            day 13
+        </title>
+        <style>
+            h1{
+                letter-spacing: 5px;
+                text-decoration: overline;
+                text-transform: uppercase;
+
+            }
+            b{
+                vertical-align: super;
+            }
+            p{
+                line-height: 30px;
+                text-align: justify;
+            }
+            ul li{
+                list-style-image:url(red\ dot.jpg)
+            }
+            
+        </style>
+    </head>
+    <body>
+        <h1>Text properties</h1>
+        <p>Saravanan Sivakumar (born 23 July 1975), <b>known by his stage name Suriya</b>, is an Indian actor, producer and television presenter best known for his work in Tamil cinema.[3] Among his awards include three Tamil Nadu State Film Awards, four Filmfare Awards South, two Edison Awards, a Cinema Express Award,[4] a CineMAA Award and a Vijay Award.[5] Based on the earnings of Indian celebrities, Suriya has been included in the Forbes India Celebrity 100 list six times. </p>
+
+            <ul>
+                <li>home</li>
+                <li>about</li>
+                <li>services</li>
+                <li>products</li>
+                <li>contact</li>
+            </ul>
+
+       
+        </body>
+</html>
